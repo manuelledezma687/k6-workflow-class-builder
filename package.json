@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/k6": "^2.0.0",
+    "k6-html-reporter": "^1.0.5"
+  },
+  "dependencies": {
+    "esbuild": "^0.28.1"
+  }
+}
